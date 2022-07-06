@@ -198,6 +198,7 @@ footer{
     font-weight: 400;
     text-align: center;
     padding-top: 70px;
+    padding-bottom: 30px;
 
 }
 
@@ -219,13 +220,14 @@ footer{
 
 #email-box{
         
-    padding: 21px 21px;
+    padding: 22px 22px;
     margin-top: 50px;
     margin-left: 55px ;
-    border-radius: 5px;
+    border-radius: 7px 0px 0px 7px;
     border: none;
     background-color: #D9D9D9;
     outline: none;
+    color: #AA9F9F;
         
 }
 
@@ -238,9 +240,9 @@ footer{
     color: white;
     background-color: #FF5959;    ;
     font-weight: 400;
-    border-radius: 5px;
+    border-radius: 0px 7px 7px 0px;
     font-family: 'Inter';
-    margin-top: 19px;
+    margin-top: 20px;
 }
 
 .update-text{
