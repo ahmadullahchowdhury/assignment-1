@@ -214,15 +214,13 @@ footer{
     align-items: center;
     justify-content: center;
     background-color: #FFF4D6;
-    padding: 50px 100px
+    padding: 50px 200px
 }
 
 #email-box{
         
-    width: 100%;
-    padding: 19px 20px;
+    padding: 21px 21px;
     margin-top: 50px;
-    
     margin-left: 55px ;
     border-radius: 5px;
     border: none;
@@ -231,17 +229,17 @@ footer{
 }
 
 .subscribe-button{
-    padding-top: 19px;
-    padding-bottom: 19px;
+    padding-top: 20px;
+    padding-bottom: 20px;
     padding-left: 50px;
     padding-right: 50px;
     text-decoration: none;
     color: white;
     background-color: #FF5959;    ;
-    font-weight: 600;
+    font-weight: 400;
     border-radius: 5px;
     font-family: 'Inter';
-    margin-top: 20px;
+    margin-top: 19px;
 }
 
 .update-text{
