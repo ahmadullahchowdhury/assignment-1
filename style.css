@@ -83,6 +83,8 @@ section{
     border: none;
     border-bottom: 2px solid red;
     text-align: center;
+    color: #B3B3B3;
+    outline: none;
 }
 
 
@@ -99,16 +101,14 @@ button {
     background-color: #f8e2e2;
     text-align: center;
     border-radius: 5px;
-    
     border: none;
-    /* cursor: pointer; */
     font-weight: 600;
     font-size: 35px;
   }
 button:hover{
     border: 2px solid #FF5959;
 
-  }
+}
 
 .donate-plan{
     display: flex;
@@ -225,6 +225,7 @@ footer{
     border-radius: 5px;
     border: none;
     background-color: #D9D9D9;
+    outline: none;
         
 }
 
@@ -248,3 +249,5 @@ footer{
     text-align: center;
     padding-bottom: 50px;
 }
+
+
