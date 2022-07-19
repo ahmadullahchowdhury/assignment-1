@@ -30,7 +30,6 @@ body{
     font-size: 18px;
     font-weight: 400;
     padding-bottom: 40px;
-
 }
 
 .donate-now-button{
@@ -43,7 +42,7 @@ body{
     background-color: #FF5959;    ;
     font-weight: 600;
     border-radius: 5px;
-    font-family: Inter
+    font-family: 'Inter'
 }
 
 .donate-amount-text{
@@ -51,14 +50,18 @@ body{
         padding-right: 500px;
         padding-bottom: 50px;
         text-align: center;
-   
 }
 
 .donate-amount{
     display: flex;
-    width: 70%;
+    width: 100%;
+    justify-content: center;
+    align-items: center;
+    
 }
-
+.donate-taka-1{
+    /* margin-left: 70px; */
+}
 
 section{
     display: flex;
@@ -96,23 +99,30 @@ h1{
   }
 button {
     text-decoration: none;
-    padding: 50px 50px;
-    margin: 20px;
+    /* padding: 50px 50px; */
+    margin: 10px;
+    /* margin-left: 120px; */
     background-color: #f8e2e2;
     text-align: center;
-    border-radius: 5px;
+    border-radius: 8px;
     border: none;
     font-weight: 600;
     font-size: 35px;
+    border: 3px solid white;
+    width: 170px;
+    height: 145px;
+    
+
   }
 button:hover{
-    border: 2px solid #FF5959;
+    border: 3px solid #FF5959;
 
 }
 
 .donate-plan{
     display: flex;
     width: 75%;
+
 }
 
 .food{
